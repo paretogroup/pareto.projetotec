@@ -6,5 +6,5 @@ def root(x):
     return sqrt(x)
 def inv(x):
 	return 1/x
-#aaaaaaa
+
 
